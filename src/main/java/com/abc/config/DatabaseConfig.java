@@ -9,7 +9,7 @@ public class DatabaseConfig {
 
     private static final String URL = "jdbc:mysql://localhost:3306/postify?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root"; 
-    private static final String PASSWORD = "Anhvu02052004@";
+    private static final String PASSWORD = "2308";
     private static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
 
     public static Connection getConnection() {
